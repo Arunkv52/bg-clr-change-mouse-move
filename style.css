@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.group h1, .group01 h1, .group02 h1, .group03 h1 {
+    text-align: center;
+    font-size: 60px;
+    font-weight: 500;
+    cursor: pointer;;
+}
+
+.group{
+    background: url(../assets/1134.webp);
+    padding: 30px;
+    background-position: center;
+    background-repeat: no-repeat;
+}
